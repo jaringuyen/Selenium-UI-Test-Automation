@@ -18,7 +18,7 @@ Instructions:
     - Install Bundler: gem install bundler
     - Install RSpec: gem install rspec
     - Install the Selenium WebDriver Ruby bindings: gem install selenium-webdriver
-
+    - Install FFI:    gem install ffi
 5. Run in command line:
 	chromedriver.exe
 	rspec quickstart.rb
